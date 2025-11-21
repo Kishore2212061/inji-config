@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "@protected": true,
+    "type": "@type",
+    "schema": "https://schema.org/",
+    "UtopiaSocialGrantCredential": {
+      "@id": "https://kishore2212061.github.io/inji-config/contexts/utopia-social-grant-context-auto.json#UtopiaSocialGrantCredential"
+    },
+    "recipientId": "schema:Text",
+    "fullName": "schema:Text",
+    "grantType": "schema:Text",
+    "grantAmount": "schema:Number",
+    "grantPeriod": "schema:Text",
+    "dateOfBirth": "schema:Date",
+    "address": "schema:Text",
+    "issueDate": "schema:Date",
+    "expiryDate": "schema:Date"
+  }
+}
