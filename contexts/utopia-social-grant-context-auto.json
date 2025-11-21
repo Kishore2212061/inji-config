@@ -16,6 +16,7 @@
     "description": "schema:Text",
     "validFrom": "schema:Date",
     "validUntil": "schema:Date",
-    "issuanceDate": "schema:Date"
+    "issuanceDate": "schema:Date",
+    "nationalId": "schema:Text"
   }
 }
