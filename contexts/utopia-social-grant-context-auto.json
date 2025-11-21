@@ -14,9 +14,6 @@
     "grantAmount": "schema:Number",
     "issuer": "schema:Text",
     "description": "schema:Text",
-    "validFrom": "schema:Text",
-    "validUntil": "schema:Text",
-    "issuanceDate": "schema:Text",
     "nationalId": "schema:Text"
   }
 }
