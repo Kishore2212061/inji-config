@@ -7,12 +7,7 @@
     "UtopiaSocialGrantCredential": {
       "@id": "https://kishore2212061.github.io/inji-config/contexts/utopia-social-grant-context-auto.json#UtopiaSocialGrantCredential"
     },
-    "credentialId": "schema:Text",
-    "beneficiaryName": "schema:Text",
-    "grantName": "schema:Text",
-    "grantType": "schema:Text",
-    "grantAmount": "schema:Number",
-    "description": "schema:Text",
-    "individualId": "schema:Text"
+    "individualId": "schema:Text",
+    "beneficiaryName": "schema:Text"
   }
 }
