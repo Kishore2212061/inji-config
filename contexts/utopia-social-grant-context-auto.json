@@ -12,7 +12,6 @@
     "grantName": "schema:Text",
     "grantType": "schema:Text",
     "grantAmount": "schema:Number",
-    "issuer": "schema:Text",
     "description": "schema:Text",
     "nationalId": "schema:Text"
   }
