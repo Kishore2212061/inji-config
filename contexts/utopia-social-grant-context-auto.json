@@ -13,6 +13,9 @@
     "grantAmount": "schema:Text",
     "grantType": "schema:Text",
     "grantDescription": "schema:Text",
+    "issuer": "schema:Text",
+    "validFrom": "schema:Text",
+    "validUntil": "schema:Text",
     "issuanceDate": "schema:Text"
   }
 }
