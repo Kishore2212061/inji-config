@@ -12,6 +12,7 @@
     "grantName": "schema:Text",
     "grantAmount": "schema:Text",
     "grantType": "schema:Text",
+    "grantDescription": "schema:Text",
     "issuanceDate": "schema:Text"
   }
 }
