@@ -14,7 +14,8 @@
     "grantType": "schema:Text",
     "grantDescription": "schema:Text",
     "issuerName": "schema:Text",
-    "validBy": "schema:Text",
+    "validityStartDate": "schema:Text",
+    "validityEndDate": "schema:Text",
     "issuanceDate": "schema:Text"
   }
 }
