@@ -10,8 +10,6 @@
     "individualId": "schema:Text",
     "beneficiaryName": "schema:Text",
     "grantName": "schema:Text",
-    "grantAmount": "schema:Text",
-    "grantType": "schema:Text",
-    "description": "schema:Text"
+    "grantAmount": "schema:Text"
   }
 }
